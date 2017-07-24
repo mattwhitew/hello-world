@@ -1,2 +1,3 @@
 # hello-world
-Generic repository
+
+Writing things to commit
